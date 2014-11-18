@@ -1,0 +1,19 @@
+{
+  "name": "Random Strings",
+  "description": "Human readable string that will look more close to dictionary words, useful for captchas.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "test.coffee"
+  },
+  "keywords": [
+    "random",
+    "word",
+    "paragraph",
+    "sentence"
+  ],
+  "repository": {
+    "url": "git@github.com:ktumit/Random-Strings.git",
+    "type": "git"
+  },
+  "author": "Ümit Dincel",
+}
