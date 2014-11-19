@@ -1,7 +1,7 @@
 Human readable string that will look more close to dictionary words, useful for captchas.
 =========================================================================================
 
-<h1> Usage: </h1>
+<h3> Usage: </h3>
 
 * Random readable word
 
