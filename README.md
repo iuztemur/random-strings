@@ -6,7 +6,7 @@
 * Random readable word
 
 ```
-{random_word} = require "./"
+{random_word} = require "random-strings"
 
 random_word(6) # lokare
 random_word(8) # minabere
@@ -15,7 +15,7 @@ random_word(8) # minabere
 * Random readable sentence
 
 ```
-{random_sentence} = require "./"
+{random_sentence} = require "random-strings"
 
 random_sentence(3) 			# balene yusa kurasenemo.
 random_sentence(2, 4, 12) 	# mina buyerinalti.
@@ -24,7 +24,7 @@ random_sentence(2, 4, 12) 	# mina buyerinalti.
 * Random readable paragraph
 
 ```
-{random_paragraph} = require "./"
+{random_paragraph} = require "random-strings"
 
 random_paragraph(3) # balene yusa kurasenemo. mina buyerinalti. mano kirasumat.
 random_paragraph(2) # minabere lokare. jolukame hutolipula.
